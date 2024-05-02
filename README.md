@@ -10,7 +10,7 @@ I'm a passionate DevOps enthusiast with a keen interest in cloud technologies. I
 
 ## 🌱 What I'm Learning
 - Kubernetes: Deploying applications, managing clusters, and scaling workloads.
-- AWS Services: EC2, S3, Lambda, and more.
+- AWS Services: Lambda, Elastic Beanstalk, CodePipeline, CodeDeploy, CodeCommit,Systems Manager
 - Docker: Containerization and orchestration.
 
 ## 💡 Fun Fact
